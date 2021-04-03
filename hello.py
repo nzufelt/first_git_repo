@@ -2,4 +2,4 @@
 
 print("hello to you as well!")
 
-# different text than the blue commit
+# this amazing line of code fixes tthe problem between the green and blue commits.
